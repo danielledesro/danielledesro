@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danielledesro
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning how to automate my CV
 - Coastal and Marine Biology Master's Student, at Universita del Salento, Italy
 
 <!---
